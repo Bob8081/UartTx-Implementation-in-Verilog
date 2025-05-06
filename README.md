@@ -59,7 +59,7 @@ Top-level module integrating all components. Interfaces:
 
 ## Testbenches
 
-Each implementation includes a dedicated testbench for each module and for the top module:
+This implementation includes a dedicated testbench for each module and for the top module:
 - Verifies functional correctness
 - Simulates edge cases and configuration variations
 - Displays UART frame structure and output waveform results
